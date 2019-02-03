@@ -1,0 +1,72 @@
+/*.THIS#parentDIV{
+    border: 5px solid;
+    border-radius: 6px;
+    background: beige;
+    height: 50px;
+    margin: 5px;
+    padding: 2px;
+}*/
+
+.THIS .button {
+ 
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #3e3e3c;
+    border-radius: 5px;
+    background: linear-gradient(#4db7e8, #053569)!important;
+    color: white;
+    font-weight: 900;
+}
+
+.THIS a .hovercss:hover { 
+    background: linear-gradient(#053569, #4db7e8)!important;
+}
+
+.THIS .bordercolor{
+    border: 2px solid black;
+    background: #0f3a64;
+    color: white;
+}
+
+.THIS .checkboxCss:hover {
+    cursor: pointer;
+    box-shadow: rgb(21, 137, 238) 0px 0px 0px 3px inset;
+    outline: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(21, 137, 238);
+    border-image: initial;
+}
+
+.THIS.slds-spinner_container {
+  z-index: 10000;
+  position: fixed;
+   
+}
+
+.THIS .background{
+    border: 2px solid #1507ea;
+    background: white;
+    color: black;
+}
+
+
+.THIS a .hovercss:hover { 
+    text-decoration: none;
+}
+
+.THIS .fontfamily {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.THIS .loading{
+    background-image: url('{!URLFOR($Resource.Games_line)}/game1.jpg');
+}
+
+.THIS .buttoncolor{
+    background: linear-gradient(#4db7e8, #053569); 
+    color: #fff;
+}
