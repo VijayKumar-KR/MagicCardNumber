@@ -1,0 +1,3 @@
+Play from Salesforce Community: https://vijaykumarkr-developer-edition.ap5.force.com/Games/s/gamecard
+Get Component details from blog: https://unknownbuddy4u.wordpress.com/2018/11/11/magiccardnumbertrick-lightning-component/
+
